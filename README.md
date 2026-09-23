@@ -148,24 +148,14 @@ intended as **decision support**, not as an automatic cash-ordering rule.
 
 ```text
 bank-branch-cash-out-forecasting/
-|
-|-- README.md
-|-- README_TH.md
-|-- requirements.txt
-|-- .gitignore
-|
-|-- notebooks/
-|   `-- bank_branch_cash_out_forecasting.ipynb
-|
-|-- data/
-|   |-- README.md
-|   `-- data_dictionary.csv
-|
-|-- docs/
-|   `-- IS_Abstract.pdf
-|
-`-- results/
-    `-- README.md
+│
+├── README.md
+├── README_TH.md
+├── requirements.txt
+├── .gitignore
+├── bank_branch_cash_out_forecasting.ipynb
+├── data_dictionary.csv
+└── IS_Abstract.pdf
 ```
 
 ## How to Run
