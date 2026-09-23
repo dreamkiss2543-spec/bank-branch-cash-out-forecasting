@@ -172,7 +172,7 @@ bank-branch-cash-out-forecasting/
 
 The notebook was developed for **Google Colab**.
 
-1. Open `notebooks/bank_branch_cash_out_forecasting.ipynb` in Google Colab.
+1. Open `bank_branch_cash_out_forecasting.ipynb` in Google Colab.
 2. Run the installation/import cell.
 3. Upload the source CSV or Excel file when prompted.
 4. Run the remaining cells in order.
