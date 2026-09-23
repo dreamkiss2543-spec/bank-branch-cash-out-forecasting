@@ -1,0 +1,9 @@
+numpy
+pandas
+matplotlib
+scikit-learn
+xgboost
+holidays
+joblib
+psutil
+openpyxl

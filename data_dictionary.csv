@@ -1,0 +1,20 @@
+column,type,description
+EFFECTIVE_DATE,Date,Observation date
+BRANCH_CODE,String,Anonymized branch identifier
+BRANCH_NAME,String,Branch name or anonymized label
+CASH_IN_AMT,Numeric,Cash-in amount
+CASH_OUT_AMT,Numeric,Cash-out amount
+CASH_IN_AMT_GT1M,Numeric,Cash-in amount for transactions above the defined threshold
+CASH_OUT_AMT_GT1M,Numeric,Cash-out amount for transactions above the defined threshold
+SHIPIN1K,Numeric,Cash shipment-in amount/category
+SHIPIN500,Numeric,Cash shipment-in amount/category
+SHIPIN100,Numeric,Cash shipment-in amount/category
+SHIPIN_OTHER,Numeric,Other cash shipment-in amount
+SHIPOUT1K,Numeric,Cash shipment-out amount/category
+SHIPOUT500,Numeric,Cash shipment-out amount/category
+SHIPOUT100,Numeric,Cash shipment-out amount/category
+SHIPOUT_OTHER,Numeric,Other cash shipment-out amount
+CASHSTOCK1K,Numeric,Cash-stock amount/category
+CASHSTOCK500,Numeric,Cash-stock amount/category
+CASHSTOCK100,Numeric,Cash-stock amount/category
+CASHSTOCK_OTHER,Numeric,Other cash-stock amount
