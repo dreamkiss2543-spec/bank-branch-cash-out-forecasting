@@ -1,28 +1,10 @@
-# Python
-__pycache__/
-*.py[cod]
-.ipynb_checkpoints/
-
-# OS / editor
-.DS_Store
-Thumbs.db
-.vscode/
-.idea/
-
 # Local raw data
+*.csv
+!data_dictionary.csv
 *.xlsx
 *.xls
-data/*.csv
-!data/data_dictionary.csv
-data/raw/
-data/processed/
 
 # Generated model/output files
 strict_outputs/
 *.joblib
 *.pkl
-
-# Environment
-.env
-.venv/
-venv/
